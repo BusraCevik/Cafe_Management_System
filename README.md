@@ -1,0 +1,2 @@
+# Cafe_Management_System
+ This project is a Java-based café management system designed to streamline café operations. It features a customer login for ordering, an admin login for managing the café, order placement with automatic price calculation, and table management for clearing tables. The system aims to simplify café management tasks and provide an efficient interface for both customers and administrators.
